@@ -23,12 +23,7 @@ Programming Language: Python
 Environment: Jupyter Notebook
 Data Structure: List and Dictionary
 Python Version: 3.13.9
-PROJECT STRUCTURE
-expense-tracker/
-│
-├── expense_tracker.ipynb
-└── README.md
-⚙️ How to Run
+HOW TO RUN 
 Using Jupyter Notebook
 Download or clone this repository.
 Open expense_tracker.ipynb using Jupyter Notebook or JupyterLab.
